@@ -1,0 +1,19 @@
+{
+  "name": "janeypark",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janeypark04/janeypark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janeypark04/janeypark/issues"
+  },
+  "homepage": "https://github.com/janeypark04/janeypark#readme"
+}
